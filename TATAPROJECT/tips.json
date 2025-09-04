@@ -1,0 +1,64 @@
+{
+    "tips":[
+    { 
+        "tip":"Recommended exercise time: ",
+        "Description":"Adults should perform at least 150–300 min/wk of moderate-intensity, 75–150 min/wk of vigorous-intensity. Additional health benefits are gained by engaging 300 minutes (5 hours) of moderate-intensity physical activity per week."
+    },
+
+    {
+        "tip":"muscle-strengthening: ",
+        "Description":"Adults should also perform muscle-strengthening exercises of moderate or greater intensity that involve all major muscle groups on 2 or more days a week, as these activities provide additional health benefits."
+    },
+    
+    {
+        "tip":"People aged 65 years or older: ",
+        "Description":"Balance training and fall prevention exercises should be performed more than 3 times a week"
+    },
+    {
+        "tip":"Bennefits: ",
+        "Description":"Regular physical activity is crucial to maintaining health and preventing cardiovascular disease complications."
+    },
+    {
+        "tip":"Mortality and cancer effects: ",
+        "Description":"Physical activity reduces mortality, prevents various cancers such as colon, breast,endometrial, stomach, etc"
+    },
+    {
+        "tip":"Cardiovascular bennefits: ",
+        "Description":"Physical activity controls hypertension, diabetes, and dyslipidemia, thereby preventing cerebrovascular disease. It also improves obesity and insulin resistance."
+    },
+    {
+        "tip":"musculoskeletal system bennefits: ",
+        "Description":"Physical activity prevent osteoporosis, reduce fractures, and improve the function of patients with rheumatoid and degenerative arthritis."
+    },
+    {
+        "tip":"Mental health bennefits: ",
+        "Description":"Physical activity have been proven in depression, anxiety, stress, sleep, dementia, and psychological well-being."
+    },
+    {
+        "tip":"Energy: ",
+        "Description":"Physical activity increases levels of energy and improve daily productivity"
+    },
+    {
+        "tip":"How to start",
+        "Description":"Don't try to do too much at the beginning, start little by little and increase the intensity and time"
+    },
+    {
+        "tip":"Goals realistic",
+        "Description":"It is important to set realistic and specific goals"
+    },
+    {
+        "tip":"Activities you enjoy",
+        "Description":"Performing physical activity will be easier if you find an activity that you enjoy and that motivates you, so explore as many as you can"
+    },
+    {
+        "tip":"Rest is important too",
+        "Description":"Rest is also very important to improve your health and habits, listen to your body and rest when necessary."
+    }
+    ],
+    "notes": 
+    {
+        "note":"NOTE: ",
+        "Description":"If you suffer from any illness or have any problems, consult your doctor to avoid possible problems due to intense activity or undiagnosed illnesses."
+    }
+    
+}
